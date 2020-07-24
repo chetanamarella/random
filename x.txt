@@ -1,3 +1,5 @@
 using this file to see how cherry pick works
 adding lines to see
 if stash works the same in a branch
+
+what is git stash apply?
