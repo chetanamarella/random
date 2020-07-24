@@ -7,3 +7,6 @@ change in master
 
 change in b1
 
+adding new lines,
+to see how stashing works.
+
